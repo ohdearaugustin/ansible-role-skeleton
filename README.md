@@ -58,6 +58,7 @@ example_var2: example2
 ## Built With
 
 * [Ansible](https://www.ansible.com/) - The IT Automatation Tool used
+* [travis-ansible-demo] (https://github.com/drhelius/travis-ansible-demo) - Test suite for travis
 
 ## Contributing
 
